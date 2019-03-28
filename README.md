@@ -26,7 +26,7 @@ Random Generator set size = 2
 ### At Transmitter Scatter Plot (before noise) and At Receiver Scatter Plot (after noise)
 ![BPSK with raised cosine  Scatter Plot](/BPSK/fig_raised_cosine.PNG)
 ### BER Diagram
-![BER Diagram with raised cosine](/BPSK/ber_diagram_rasied_cosine.png)
+![BER Diagram with raised cosine](/BPSK/ber_diagram_raised_cosine.png)
 ___
 ### **Quadrature Phase-Shift Keying Modulation (QPSK)**
 ### Definition 

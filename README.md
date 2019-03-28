@@ -49,7 +49,7 @@ Phase offset = pi/4
 ### At Transmitter Scatter Plot (before noise) and At Receiver Scatter Plot (after noise)
 ![QPSK with raised cosine  Scatter Plot](/QPSK/fig_raised_cosine.PNG)
 ### BER Diagram
-![BER Diagram with raised cosine](/QPSK/ber_diagram_rasied_cosine.png)
+![BER Diagram with raised cosine](/QPSK/ber_diagram_raised_cosine.png)
 ___
 ## **Frequency Shift Keying (FSK)**
 ### Definition
@@ -72,7 +72,7 @@ M-ary number = 2
 ### At Transmitter Scatter Plot (before noise) and At Receiver Scatter Plot (after noise)
 ![FSK with raised cosine  Scatter Plot](/FSK/fig_raised_cosine.PNG)
 ### BER Diagram
-![BER Diagram with raised cosine](/FSK/ber_diagram_rasied_cosine.png)
+![BER Diagram with raised cosine](/FSK/ber_diagram_raised_cosine.png)
 ___
 ## **Quadrature Amplitude Modulation (QAM16)**
 ### Definition
@@ -96,7 +96,7 @@ M-ary number = 16
 ### At Transmitter Scatter Plot (before noise) and At Receiver Scatter Plot (after noise)
 ![QAM16 with raised cosine  Scatter Plot](/QAM16/fig_raised_cosine.PNG)
 ### BER Diagram
-![BER Diagram with raised cosine](/QAM16/ber_diagram_rasied_cosine.png)
+![BER Diagram with raised cosine](/QAM16/ber_diagram_raised_cosine.png)
 ___
 ## **Quadrature Amplitude Modulation (QAM64)**
 ### Definition
@@ -120,5 +120,5 @@ M-ary number = 64
 ### At Transmitter Scatter Plot (before noise) and At Receiver Scatter Plot (after noise)
 ![QAM64 with raised cosine  Scatter Plot](/QAM64/fig_raised_cosine.PNG)
 ### BER Diagram
-![BER Diagram with raised cosine](/QAM64/ber_diagram_rasied_cosine.png)
+![BER Diagram with raised cosine](/QAM64/ber_diagram_raised_cosine.png)
 ___
